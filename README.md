@@ -10,5 +10,5 @@ The Algorithms course introduces participants to the most common programming tec
 
 - Python
 
-[Algorithms with Python]: [https://softuni.bg/trainings/4109/python-web-basics-may-2023](https://softuni.bg/trainings/4807/algorithms-with-python-november-2024#lesson-82251)
+[Algorithms with Python]: [https://softuni.bg/trainings/4807/algorithms-with-python-november-2024#lesson-82251]
  
